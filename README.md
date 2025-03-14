@@ -19,9 +19,9 @@ Technologies Used:
       
 How to Use:
 
-      Enter a task in the input box and click the Add button.
-      Check the box to mark a task as completed.
-      Click the edit icon  to modify a task.
-      Click the delete icon  to remove a task.
-      Drag and drop tasks to reorder them.
-      Tasks are saved automatically, so they persist even if you close or refresh the page.
+      1.Enter a task in the input box and click the Add button.
+      2.Check the box to mark a task as completed.
+      3.Click the edit icon  to modify a task.
+      4.Click the delete icon to remove a task.
+      5.Drag and drop tasks to reorder them.
+      6.Tasks are saved automatically, so they persist even if you close or refresh the page.
