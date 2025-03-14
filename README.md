@@ -1,12 +1,15 @@
-# To-Do-List
-A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This project allows users to add, view, and delete tasks, with data persistence using LocalStorage.
+#  ToDoMaster
+This is a simple and interactive To-Do List web application that allows users to add, edit, delete, and mark tasks as completed. The application also supports drag-and-drop reordering and stores tasks using localStorage to persist data across sessions.
 
 Features:
 
-      1.Add Tasks: Easily add new tasks to your to-do list.
-      2.Delete Tasks: Remove completed or unwanted tasks with a single click.
-      3.Persistent Storage: Tasks are saved in the browser's LocalStorage, so they persist even after refreshing or closing the page.
-      4.Responsive Design: The application is designed to work seamlessly on both desktop and mobile devices.
+      1.Add Tasks: Users can add new tasks to the list
+      2.Edit Tasks: Tasks can be edited inline.
+      3.Delete Tasks: Remove unwanted tasks easily.
+      4.Mark as Completed: Tasks can be checked off to indicate completion.
+      5.Drag and Drop: Reorder tasks by dragging and dropping.
+      6.Persistent Storage: Uses localStorage to save tasks.
+      7.Responsive Design: Works well on both desktop and mobile devices.
 
 Technologies Used:
 
@@ -16,9 +19,9 @@ Technologies Used:
       
 How to Use:
 
-      Add a Task:  Type your task in the input field.
-                   Click the "Add" button or press Enter to add the task to the list.
-      Delete a Task:  Click the "Delete" button next to the task you want to remove.
-      
-      Persistent Storage:  Tasks are automatically saved in your browser's LocalStorage.
-                     Even if you close or refresh the page, your tasks will remain.
+      Enter a task in the input box and click the Add button.
+      Check the box to mark a task as completed.
+      Click the edit icon  to modify a task.
+      Click the delete icon  to remove a task.
+      Drag and drop tasks to reorder them.
+      Tasks are saved automatically, so they persist even if you close or refresh the page.
